@@ -1,4 +1,4 @@
-Hi, I’m @MrSottaceti, Italian, 24 years old, quant wannabe. 
+Hi, I’m @MrSottaceti, Italian, 25 years old, quant wannabe. 
 I’m interested in quantitative finance and economic data analysis.
 I code in R, Python and Matlab.
 
